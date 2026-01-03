@@ -1,0 +1,9 @@
+Test di Claude Code - Commit e Push Automatico
+==============================================
+
+Data e ora del test: 2026-01-03 13:19 CET
+Scopo: Testare la capacità di Claude Code di fare commit e push autonomamente
+Repository: Pippo
+Utente GitHub: miku92
+
+Questo è un file di test creato automaticamente da Claude Code.
