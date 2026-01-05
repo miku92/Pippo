@@ -7,3 +7,6 @@ Repository: Pippo
 Utente GitHub: miku92
 
 Questo è un file di test creato automaticamente da Claude Code.
+
+Modifica effettuata il: 2026-01-05
+Nuova riga aggiunta per testare il commit automatico.
